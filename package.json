@@ -1,0 +1,8 @@
+{
+  "name": "riak-js-fake",
+  "description": "A fake riak-js object",
+  "version": "v0.0.1",
+  "main": "./riak-js-fake.js",
+  "scripts": { "test": "mocha" },
+  "devDependencies": { "mocha": "*" }
+}
